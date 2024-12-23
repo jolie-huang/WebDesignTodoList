@@ -5,7 +5,6 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Todo from "./components/Todo";
-import TodoListAPI from "./components/TodoListAPI"; // Import the new component
 
 
 function App() {
